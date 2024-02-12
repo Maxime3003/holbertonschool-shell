@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s _ls_ /bin/ls
+ln /bin/ls 13-symbolic_link
