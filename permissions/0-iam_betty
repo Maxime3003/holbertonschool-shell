@@ -1,2 +1,2 @@
 #!/bin/bash
-1 chown betty 0-iam_betty
+chown -u betty 0-iam_betty
