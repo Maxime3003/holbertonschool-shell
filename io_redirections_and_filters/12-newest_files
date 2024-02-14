@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -exec ls -t -r {} + | head -10
+find . -type f -exec ls -t -r -1 {} + | head -10
