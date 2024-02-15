@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv $((10#BINARY))
+printenv $(( 10#BINARY ))
